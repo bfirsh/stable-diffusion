@@ -10,6 +10,7 @@ dependencies:
   - pytorch
   - torchvision
   - numpy=1.23.1
+  - onnxruntime
   - pip:
     - albumentations==0.4.6
     - diffusers
